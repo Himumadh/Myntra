@@ -1,0 +1,289 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+
+  width: 100%;
+  overflow-x: hidden;
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+.header {
+  width: 1583px;
+  height: 80px;
+  display: flex;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+}
+
+#myntralogo {
+  padding-top: 22px;
+  margin-left: -5.7875px;
+  /* margin-left: 63.2125px; */
+  /* vertical-align: middle; */
+  height: 37px;
+  width: 66px;
+}
+
+.logocontainer {
+  margin-left: 63.2125px;
+  height: 80px;
+  width: 53px;
+}
+
+.item {
+  display: flex;
+  margin: 0 0 0 4.5%;
+}
+
+.mens {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 62.41px;
+  height: 51px;
+}
+
+.womens {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 83.83px;
+  height: 51px;
+}
+
+.kids {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 64.44px;
+  height: 51px;
+}
+
+.home {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 131.16px;
+  height: 51px;
+}
+
+.BEAUTY {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 83.67px;
+  height: 51px;
+}
+
+.studio {
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  margin-top: 28px;
+  width: 89.95px;
+  height: 51px;
+}
+
+#a {
+  letter-spacing: 0.3px;
+  font-size: 12px;
+  color: #282c3fb6;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.searchbar {
+  width: 506.55px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  padding: 20px 20px 20px 40px;
+}
+
+#searchbox {
+  margin-top: 20px;
+  background-color: #f5f5f6;
+  border: none;
+  width: 502.22px;
+  height: 40px;
+}
+
+/* .material-symbols-outlined{
+  padding-top:10 ;
+   height: 24px;
+   width: 24px;
+} */
+.search {
+  margin-left: 120px;
+  position: relative;
+  display: flex;
+}
+
+.icon {
+  padding: 21px 0px 0px 40px;
+  float: right;
+  height: 40px;
+  width: 194px;
+  /* margin: 28px 0px 0px 35px; */
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.iconcenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.material-symbols-outlined {
+  width: 24px;
+  height: 24px;
+  /* margin-left: 10PX; */
+  color: #282c3f;
+}
+
+/* .Profile {
+  margin-left: 10px;
+  height: 24px;
+  width: 24px;
+  margin: 0PX 20PX 0PX 10PX;
+}
+.Wishlist {
+  margin-left: 38px;
+  height: 24px;
+  width: 24px;
+}
+.bag {
+  margin-left: 33px;
+  height: 24px;
+  width: 24px;
+} */
+
+#icontext {
+  /* padding-right: 20px; */
+  width: 40px;
+  height: 20px;
+  color: #000000c4;
+  font-weight: 800;
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif;
+  font-size: 11px;
+}
+
+.banner {
+  width: 1583px;
+  height: 450.33px;
+}
+
+#bannerimage {
+  height: 415.53px;
+  width: 1583px;
+}
+
+.mainbanner {
+  padding-top: 40px;
+  height: 480.53px;
+  width: 1583px;
+}
+
+input[type="text"] {
+  font-size: 15px;
+}
+
+.main {
+  height: 3811.53px;
+}
+
+.footer1 {
+  padding: 30px 0px 40px 0px;
+  display: flex;
+  /* align-items: center; */
+  width: 1583px;
+  height: 3715px;
+  background: #fafbfc;
+  justify-content: center;
+}
+
+.footer2 {
+  display: flex;
+  justify-content: center;
+  background: #c5e700;
+  height: 3433px;
+  width: 1080px;
+}
+
+.bannertitle {
+  /* letter-spacing: 0.15em; */
+  font-weight: 680;
+  letter-spacing: 4px;
+  color: #3e4152;
+  font-size: 25.8px;
+  margin: 30px 0px 54px 29px;
+  font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+.base {
+  /* background-color: red; */
+  display: flex;
+  box-sizing: border-box;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  margin: 0 auto;
+
+
+  width: 1583px;
+  height: 411.16px;
+
+}
+
+.categoriesdiv {
+  padding: 35px;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.offer1 {
+  width: 263.83px;
+  height: 346.38px;
+
+}
+
+.offer2 {
+  width: 250.83px;
+  height: 344.63px;
+
+}
+
+.base2 {
+  align-items: center;
+  justify-content: center;
+  height: 344.63px;
+  width: 1525px;
+}
+
+.FreeShippingBanner-sidebar {
+  right: 0px;
+  position: fixed;
+  bottom: 130px;
+  width: 44px;
+  height: 288px;
+  background-color: #535766;
+  z-index: 6;
+  color: #fff;
+  letter-spacing: 1px;
+  cursor: pointer;
+
+}
+
+.promt {
+  transform: rotate(-90deg)
+}
